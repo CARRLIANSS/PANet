@@ -43,7 +43,7 @@ bash test.sh
 
 ## Acknowledgement
 
-We borrow code from public projects. We mainly borrow code from [DeepDA](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDA).
+We borrow code from public projects. We mainly borrow code from [PANet](https://github.com/kaixin96/PANet).
 
 ## Reference
 

@@ -5,13 +5,13 @@ This repo contains code for our ICCV 2019 paper [PANet: Few-Shot Image Semantic 
 
 1. Download Pascal VOC from [here](https://pan.baidu.com/s/15JA12xKtWgh-CAmhyVq6cg)(key: ltf0) and put them under `data/Pascal/VOCdevkit`. Image which we use from `JPEGImages` and we not use any other folders. 
 
-2. Download SegmentationClassAug, SegmentationObjectAug, ScribbleAugAuto from [here](https://pan.baidu.com/s/1fnkniSEDazDOaOtof7H2hA)(key: ltf0) and put them under VOCdevkit/VOC2012.
+2. Download SegmentationClassAug, SegmentationObjectAug, ScribbleAugAuto from [here](https://pan.baidu.com/s/1fnkniSEDazDOaOtof7H2hA)(key: ltf0) and put them under `VOCdevkit/VOC2012`.
 
-3. Download Segmentation from [here](https://pan.baidu.com/s/1JfoBpmjl7hR8eeu6k6Solw)(key: ltf0) and use it to replace VOCdevkit/VOC2012/ImageSets/Segmentation.
+3. Download Segmentation from [here](https://pan.baidu.com/s/1JfoBpmjl7hR8eeu6k6Solw)(key: ltf0) and use it to replace `VOCdevkit/VOC2012/ImageSets/Segmentation`.
 
 ## Model
 
-Backbone: VGG
+Backbone: Download VGG pretrained from [here](https://pan.baidu.com/s/1xAx9wD9hFJQ5V4RTG7abpg)(key: ltf0) and put them under `./pretrained_model`.
 
 <div align=center><img src ="images/model.png" style="zoom:100%;"/></div>
 
